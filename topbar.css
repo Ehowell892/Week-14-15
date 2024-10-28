@@ -1,0 +1,16 @@
+.playlistBackground {
+	background-color: rgb(226, 6, 6);
+	border-right: 1px dotted darkgray;
+	width: 100vw;
+	padding: 10px;
+}
+
+.title {
+	font-size: 72px;
+	color: white;
+}
+
+.playlist {
+	font-size: 48px;
+	color: rgb(0, 0, 0);
+}
